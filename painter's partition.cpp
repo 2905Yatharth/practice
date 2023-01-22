@@ -1,4 +1,4 @@
-// Painters Partition Porblem 
+  
 
 bool isValid(vector<int> &boards, int k, int mid){
     int painterCount=1;
